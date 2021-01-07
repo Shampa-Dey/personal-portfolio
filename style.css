@@ -1,0 +1,89 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+h1{
+  font-size: 45px;
+}
+h2{
+  font-size: 40px;
+  text-align: center;
+}
+h3{
+  font-size: 35px;
+}
+h5{
+  font-size:30px;
+}
+h6{
+  font-size:20px;
+}
+.highlight{
+  color: orangered;
+}
+p{
+  text-align: justify;
+  color: darkslategray;
+}
+.half-width{
+  width: 35%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  }
+  .half-width img{
+    width: 100%;
+  }
+  .link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 25px;
+    border-radius: 10px;
+    color:white;
+    font-weight: bold;
+  }
+section{
+  height: 600px;
+}
+.box{
+  border: 1px solid gainsboro;
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  width: 30%;
+  display: inline-block;
+}
+.box img{
+  width: 100%;
+}
+.background{
+  background-color: whitesmoke;
+}
+.inquiry{
+  
+  background-image: url("shapes/Group_33094_1.png");
+  background-position: center;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  height: 220px;
+  text-align: center;
+  margin-top: 100px;
+  padding-top: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.inquiry-1{
+  float: left;
+  padding-top: 0px;
+  padding-left: 220px;
+  margin-left: 200px;
+}
+.inquiry-2{
+  float: right;
+  padding-top: 60px;
+  margin-right: 220px;
+  padding-right: 220px;
+}
+
+.foot{
+  text-align: center;
+}
